@@ -1,3 +1,4 @@
+(to see example of input and outpu use code type view)
 Graphs are an important data structure used in computer science. The task is to load graphs and determine the following parameters:
 
 1) the degree sequence;
@@ -21,7 +22,7 @@ You should print k sets of responses. Each set should contain the designated par
 1, 4, 6a, 6b, 6c you should print sequence of n numbers;
 7, 8 you should print a number;
 2, 3, 5 you should print a character T or F (true/false).
-* text=auto
+
 example input: 
 4
 18

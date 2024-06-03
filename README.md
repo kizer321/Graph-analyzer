@@ -21,9 +21,8 @@ You should print k sets of responses. Each set should contain the designated par
 1, 4, 6a, 6b, 6c you should print sequence of n numbers;
 7, 8 you should print a number;
 2, 3, 5 you should print a character T or F (true/false).
-
+* text=auto
 example input: 
-$ git config --global core.autocrlf true
 4
 18
 3 16 13 12

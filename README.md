@@ -23,7 +23,7 @@ You should print k sets of responses. Each set should contain the designated par
 2, 3, 5 you should print a character T or F (true/false).
 
 example input: 
-
+$ git config --global core.autocrlf true
 4
 18
 3 16 13 12
